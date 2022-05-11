@@ -9,3 +9,7 @@ Run the script according to the following format.
     Example sh thread-analyze-.sh 10377 5s 10
     
 This will print thread dumps with the 5s time gap continuously and each time if any file is older than 10 minutes will be deleted.
+
+
+PLEASE NOTE:
+Since the deletion is happening based on the last access time nad the file name, make sure to place and run the script in a newly created folder.
