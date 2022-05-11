@@ -12,4 +12,4 @@ This will print thread dumps with the 5s time gap continuously and each time if 
 
 
 PLEASE NOTE:
-Since the deletion is happening based on the last access time nad the file name, make sure to place and run the script in a newly created folder.
+Since the deletion is happening based on the last access time and the file name, make sure to place and run the script in a newly created folder.
